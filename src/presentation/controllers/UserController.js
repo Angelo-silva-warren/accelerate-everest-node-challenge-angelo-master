@@ -20,9 +20,6 @@ class UserController {
             return res.send(resposta)
         }
         
-        
-        
-        // console.log(Mock.User)
     }
 }   
     

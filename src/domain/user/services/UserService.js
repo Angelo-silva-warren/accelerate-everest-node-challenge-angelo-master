@@ -1,5 +1,4 @@
 
-
 class UserService {
     
     
@@ -32,7 +31,6 @@ class UserService {
             
         return(erroCampos)
     }
-
 
     validaNumber(dados){
         let erroNumero = ""; 
